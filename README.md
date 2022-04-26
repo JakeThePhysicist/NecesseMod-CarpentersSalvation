@@ -13,6 +13,11 @@ In the future there may be version numbers such as 0.21.3.11, or 1.2.1.3 post-re
 
 (Major Mod Version).(Major Changes).(Minor Changes).(Patches)
 
+## Conduct
+
+My mod is open source so feel free to use peices of my code or my assets for stuff.
+Just don't take credit for my work or label it as your own, anything you make using my stuff should be a proper extention.
+
 ## Current Features:
 
 Oak Walls, Doors, and Floors.
