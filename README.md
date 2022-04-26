@@ -6,6 +6,13 @@ The creation and compiling of this mod was greatly aided by the helpful informat
 Necesse modding and by extention **this mod** are in extremely early stages so there isn't really a proper etiquette to mod uploading and descriptions.
 So any of this mod's description is subject to change.
 
+## Version number "key":
+
+For example the version number as of writing this "key" are 0.2.0.2.
+In the future there may be version numbers such as 0.21.3.11, or 1.2.1.3 post-release.
+
+(Major Mod Version).(Major Changes).(Minor Changes).(Patches)
+
 ## Current Features:
 
 Oak Walls, Doors, and Floors.
