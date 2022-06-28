@@ -1,9 +1,9 @@
 package crps;
 
 
-import gfx.gameTexture.GameTexture;
-import level.gameObject.TorchObject;
-import level.maps.Level;
+import necesse.gfx.gameTexture.GameTexture;
+import necesse.level.gameObject.TorchObject;
+import necesse.level.maps.Level;
 import java.awt.*;
 
 
