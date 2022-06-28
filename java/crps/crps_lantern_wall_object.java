@@ -1,10 +1,10 @@
 package crps;
 
 
-import gfx.gameTexture.GameTexture;
+import necesse.gfx.gameTexture.GameTexture;
 import java.awt.Color;
-import level.gameObject.WallTorchObject;
-import level.maps.Level;
+import necesse.level.gameObject.WallTorchObject;
+import necesse.level.maps.Level;
 
 public class crps_lantern_wall_object extends WallTorchObject {
     private final String lantern_texture;
