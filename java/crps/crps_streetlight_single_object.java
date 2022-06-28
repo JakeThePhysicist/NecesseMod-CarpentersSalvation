@@ -1,20 +1,20 @@
         package crps;
 
-        import engine.tickManager.TickManager;
-        import entity.mobs.PlayerMob;
-        import gfx.camera.GameCamera;
-        import gfx.drawOptions.texture.TextureDrawOptions;
-        import gfx.drawables.LevelSortedDrawable;
-        import gfx.drawables.OrderableDrawables;
-        import gfx.gameTexture.GameTexture;
-        import inventory.item.toolItem.ToolType;
+        import necesse.engine.tickManager.TickManager;
+        import necesse.entity.mobs.PlayerMob;
+        import necesse.gfx.camera.GameCamera;
+        import necesse.gfx.drawOptions.texture.TextureDrawOptions;
+        import necesse.gfx.drawables.LevelSortedDrawable;
+        import necesse.gfx.drawables.OrderableDrawables;
+        import necesse.gfx.gameTexture.GameTexture;
+        import necesse.inventory.item.toolItem.ToolType;
         import java.awt.Color;
         import java.awt.Rectangle;
         import java.util.List;
-        import level.gameObject.ObjectHoverHitbox;
-        import level.maps.Level;
-        import level.gameObject.furniture.LampObject;
-        import level.maps.light.GameLight;
+        import necesse.level.gameObject.ObjectHoverHitbox;
+        import necesse.level.maps.Level;
+        import necesse.level.gameObject.furniture.LampObject;
+        import necesse.level.maps.light.GameLight;
 
     public class crps_streetlight_single_object extends LampObject {
 
