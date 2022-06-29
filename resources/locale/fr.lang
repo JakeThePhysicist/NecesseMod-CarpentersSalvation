@@ -1,44 +1,44 @@
 [tile]
-woodfloor=Plancher en bois traité
-willowfloor=Sol de saule
-parquet en chêne=Parquet en chêne
-sprucefloor=Plancher en épicéa
+woodfloor=Plancher en Bois Traité
+willowfloor=Sol de Saule
+oakfloor=Parquet en Chêne
+sprucefloor=Plancher en Épicéa
 
 [object]
 
 
 crps_lantern=Lanterne
-crps_lantern_wall=Lanterne murale
+crps_lantern_wall=Lanterne Murale
 
-crps_streetlight_single=Réverbère unique
-crps_streetlight_double=Double lampadaire
-crps_streetlight_quad=Quadruple lampadaire
+crps_streetlight_single=Réverbère Unique
+crps_streetlight_double=Double Lampadaire
+crps_streetlight_quad=Quadruple Lampadaire
 
 
-woodwall=Mur en bois traité
-wooddoor=Porte en bois traité
+woodwall=Mur en Bois Traité
+wooddoor=Porte en Bois Traité
 
-willowchest=poitrine de saule
-willowdinnertable=Table de dîner en saule
-willowdesk=Bureau de saule
-willowmodulartable=Table modulaire en saule
-willowchair=Chaise de saule
-willowbench = Banc de saule
-willowbookshelf=Bibliothèque de saule
-willowcabinet=Armoire en saule
-Willowbed=Lit de saule
-willowdresser = Dresseur de saule
-willowclock=Horloge de saule
-willowcandelabra=Candelabre en saule
-willowdisplay=Afficher le saule
-willowbathtub=Baignoire en saule
-willowtoilet=Toilette de saule
+willowchest=Poitrine de Saule
+willowdinnertable=Table de Dîner en Saule
+willowdesk=Bureau de Saule
+willowmodulartable=Table Modulaire en Saule
+willowchair=Chaise de Saule
+willowbench=Banc de Saule
+willowbookshelf=Bibliothèque de Saule
+willowcabinet=Armoire en Saule
+Willowbed=Lit de Saule
+willowdresser=Dresseur de Saule
+willowclock=Horloge de Saule
+willowcandelabra=Candelabre en Saule
+willowdisplay=Afficher le Saule
+willowbathtub=Baignoire en Saule
+willowtoilet=Toilette de Saule
 
-willowwall=Mur de saule
-willowdoor = porte de saule
+willowwall=Mur de Saule
+willowdoor=Porte de Saule
 
-oakwall=Mur de chêne
-oakdoor = Porte en chêne
+oakwall=Mur de Chêne
+oakdoor=Porte en Chêne
 
 sprucewall=Mur d'épicéa
-sprucedoor = Porte en épicéa
+sprucedoor=Porte en Épicéa
