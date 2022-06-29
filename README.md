@@ -4,6 +4,7 @@ The **early stages** of a mod for the game Necesse that strives to add various b
 <table align="right">
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_pt-BR.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_fr.md">:fr: Frec</a></td></tr>
 </table>
 
 The creation and compiling of this mod was greatly aided by the helpful information and Example Mod Project from [Necesse's official modding documentation](https://docs.google.com/document/u/1/d/e/2PACX-1vTexy0ZwJmztm6KhvwUCpSbgdNFV5hxUOr_6rSiCyqvjlj80Sj28Alenodq6AbOfnKaWoj-zv0iziyL/pub).
