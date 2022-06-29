@@ -1,0 +1,44 @@
+[tile]
+woodfloor=Plancher en Bois Traité
+willowfloor=Sol de Saule
+oakfloor=Parquet en Chêne
+sprucefloor=Plancher en Épicéa
+
+[object]
+
+
+crps_lantern=Lanterne
+crps_lantern_wall=Lanterne Murale
+
+crps_streetlight_single=Réverbère Unique
+crps_streetlight_double=Double Lampadaire
+crps_streetlight_quad=Quadruple Lampadaire
+
+
+woodwall=Mur en Bois Traité
+wooddoor=Porte en Bois Traité
+
+willowchest=Poitrine de Saule
+willowdinnertable=Table de Dîner en Saule
+willowdesk=Bureau de Saule
+willowmodulartable=Table Modulaire en Saule
+willowchair=Chaise de Saule
+willowbench=Banc de Saule
+willowbookshelf=Bibliothèque de Saule
+willowcabinet=Armoire en Saule
+Willowbed=Lit de Saule
+willowdresser=Dresseur de Saule
+willowclock=Horloge de Saule
+willowcandelabra=Candelabre en Saule
+willowdisplay=Afficher le Saule
+willowbathtub=Baignoire en Saule
+willowtoilet=Toilette de Saule
+
+willowwall=Mur de Saule
+willowdoor=Porte de Saule
+
+oakwall=Mur de Chêne
+oakdoor=Porte en Chêne
+
+sprucewall=Mur d'épicéa
+sprucedoor=Porte en Épicéa
