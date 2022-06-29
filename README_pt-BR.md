@@ -5,6 +5,7 @@ Os **estágios iniciais** de um mod para o jogo Necesse que se esforça para adi
 <table align="right">
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_pt-BR.md">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_fr.md">:fr: Frec</a></td></tr>
 </table>
 
 A criação e compilação deste mod foi muito auxiliada pelas informações úteis e pelo Exemplo de Projeto de Mod da [documentação oficial de mods do Necesse](https://docs.google.com/document/u/1/d/e/2PACX-1vTexy0ZwJmztm6KhvwUCpSbgdNFV5hxUOr_6rSiCyqvjlj80Sj28Alenodq6AbOfnKaWoj-zv0iziyL/pub).
