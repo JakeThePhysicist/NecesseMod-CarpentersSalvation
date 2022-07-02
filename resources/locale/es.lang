@@ -16,7 +16,7 @@ crps_streetlight_quad=Farola Cuádruple
 
 
 woodwall=Pared de madera tratada
-woodPuerta=Puerta de Madera Tratada
+wooddoor=Puerta de Madera Tratada
 
 willowchest=Cofre de sauce
 willowdinnertable=Mesa de cena de sauce
@@ -35,10 +35,10 @@ willowbathtub=Bañera de sauce
 willowtoilet=Inodoro de sauce
 
 willowwall=Pared de Sauce
-willowPuerta=Puerta de Sauce
+willowdoor=Puerta de Sauce
 
 oakwall=Pared de Roble
-oakPuerta=Puerta de Roble
+oakdoor=Puerta de Roble
 
 sprucewall=Pared de Abeto
-sprucePuerta=Puerta de Abeto
+sprucedoor=Puerta de Abeto
