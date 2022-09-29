@@ -4,8 +4,21 @@ willowfloor=Willow Floor
 oakfloor=Oak Floor
 sprucefloor=Spruce Floor
 
-[object]
+//Content Update 1
 
+//deepsnowstonefloor=Deep Snow Stone Floor
+//deepsnowstonebrickfloor=Deep Snow Stone Brick Floor
+deepsnowstonetiledfloor=Deep Snow Stone Tiled Floor
+
+deepsandstonefloor=Deep Sandstone Floor
+deepsandstonebrickfloor=Deep Sandstone Brick Floor
+deepsandstonetiledfloor=Deep Sandstone Tiled Floor
+
+ironfloor=Iron Floor
+copperfloor=Copper Floor
+goldfloor=Gold Floor
+
+[object]
 
 crps_lantern=Lantern
 crps_lantern_wall=Wall Lantern
@@ -42,3 +55,17 @@ oakdoor=Oak Door
 
 sprucewall=Spruce Wall
 sprucedoor=Spruce Door
+
+//Content Update 1
+//deepsnowstonewall=Deep Snow Stone Wall
+//deepsnowstonedoor=Deep Snow Stone Door
+deepsnowstonecolumn=Deep Snow Stone Column
+
+irondoor=Iron Door
+ironwall=Iron Wall
+
+copperdoor=Copper Door
+copperwall=Copper Wall
+
+golddoor=Gold Door
+goldwall=Gold Wall
