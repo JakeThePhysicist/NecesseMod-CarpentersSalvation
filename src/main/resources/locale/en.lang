@@ -1,0 +1,79 @@
+[tile]
+woodfloor=Treated Wood Floor
+willowfloor=Willow Floor
+oakfloor=Oak Floor
+sprucefloor=Spruce Floor
+
+//Content Update 1
+
+//deepsnowstonefloor=Deep Snow Stone Floor
+//deepsnowstonebrickfloor=Deep Snow Stone Brick Floor
+deepsnowstonetiledfloor=Deep Snow Stone Tiled Floor
+
+deepsandstonefloor=Deep Sandstone Floor
+deepsandstonebrickfloor=Deep Sandstone Brick Floor
+deepsandstonetiledfloor=Deep Sandstone Tiled Floor
+
+
+deepswampstonetiledfloor=Deep Swamp Stone Tiled Floor
+
+
+
+ironfloor=Iron Floor
+copperfloor=Copper Floor
+goldfloor=Gold Floor
+
+[object]
+
+crps_lantern=Lantern
+crps_lantern_wall=Wall Lantern
+
+crps_streetlight_single=Single Street Light
+crps_streetlight_double=Double Street Light
+crps_streetlight_quad=Quadruple Street Light
+
+
+woodwall=Treated Wood Wall
+wooddoor=Treated Wood Door
+
+willowchest=Willow Chest
+willowdinnertable=Willow Dinner Table
+willowdesk=Willow Desk
+willowmodulartable=Willow Modular Table
+willowchair=Willow Chair
+willowbench=Willow Bench
+willowbookshelf=Willow Bookshelf
+willowcabinet=Willow Cabinet
+willowbed=Willow Bed
+willowdresser=Willow Dresser
+willowclock=Willow Clock
+willowcandelabra=Willow Candelabra
+willowdisplay=Willow Display
+willowbathtub=Willow Bathtub
+willowtoilet=Willow Toilet
+
+willowwall=Willow Wall
+willowdoor=Willow Door
+
+oakwall=Oak Wall
+oakdoor=Oak Door
+
+sprucewall=Spruce Wall
+sprucedoor=Spruce Door
+
+//Content Update 1
+//deepsnowstonewall=Deep Snow Stone Wall
+//deepsnowstonedoor=Deep Snow Stone Door
+deepsnowstonecolumn=Deep Snow Stone Column
+
+deepstonecolumn=Deep Stone Column
+deepswampstonecolumn=Deep Swamp Stone Column
+
+irondoor=Iron Door
+ironwall=Iron Wall
+
+copperdoor=Copper Door
+copperwall=Copper Wall
+
+golddoor=Gold Door
+goldwall=Gold Wall
