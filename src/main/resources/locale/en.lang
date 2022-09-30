@@ -5,19 +5,13 @@ oakfloor=Oak Floor
 sprucefloor=Spruce Floor
 
 //Content Update 1
-
-//deepsnowstonefloor=Deep Snow Stone Floor
-//deepsnowstonebrickfloor=Deep Snow Stone Brick Floor
 deepsnowstonetiledfloor=Deep Snow Stone Tiled Floor
 
 deepsandstonefloor=Deep Sandstone Floor
 deepsandstonebrickfloor=Deep Sandstone Brick Floor
 deepsandstonetiledfloor=Deep Sandstone Tiled Floor
 
-
 deepswampstonetiledfloor=Deep Swamp Stone Tiled Floor
-
-
 
 ironfloor=Iron Floor
 copperfloor=Copper Floor
@@ -62,10 +56,8 @@ sprucewall=Spruce Wall
 sprucedoor=Spruce Door
 
 //Content Update 1
-//deepsnowstonewall=Deep Snow Stone Wall
-//deepsnowstonedoor=Deep Snow Stone Door
-deepsnowstonecolumn=Deep Snow Stone Column
 
+deepsnowstonecolumn=Deep Snow Stone Column
 deepstonecolumn=Deep Stone Column
 deepswampstonecolumn=Deep Swamp Stone Column
 
