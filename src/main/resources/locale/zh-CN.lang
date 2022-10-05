@@ -4,12 +4,28 @@ willowfloor=柳木地板
 oakfloor=橡木地板
 sprucefloor=云杉木地板
 
+//Content Update 1
+deepsnowstonetiledfloor=平铺深层雪地岩地板
+
+deepsandstonefloor=深层砂岩地板
+deepsandstonebrickfloor=深层砂岩砖地板
+deepsandstonetiledfloor=平铺深层砂岩地板
+
+deepswampstonetiledfloor=平铺深层沼泽岩地板
+
+ironfloor=铁质地板
+copperfloor=铜质地板
+goldfloor=金质地板
+
 [object]
+
 crps_lantern=灯笼
 crps_lantern_wall=壁挂灯笼
+
 crps_streetlight_single=单臂路灯
 crps_streetlight_double=双臂路灯
 crps_streetlight_quad=四臂路灯
+
 woodwall=拼合木墙
 wooddoor=拼合木门
 willowchest=柳木箱子
@@ -33,3 +49,18 @@ oakwall=橡木墙
 oakdoor=橡木门
 sprucewall=云杉墙
 sprucedoor=云杉门
+
+//Content Update 1
+
+deepsnowstonecolumn=深层雪地岩柱
+deepstonecolumn=深层岩石柱
+deepswampstonecolumn=深层沼泽岩柱
+
+irondoor=铁门
+ironwall=铁墙
+
+copperdoor=铜门
+copperwall=铜墙
+
+golddoor=金门
+goldwall=金墙
