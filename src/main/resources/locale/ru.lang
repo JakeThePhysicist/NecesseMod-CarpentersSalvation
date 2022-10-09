@@ -1,0 +1,71 @@
+[tile]
+woodfloor=Деревянный Пол
+willowfloor=Ивовый Пол
+oakfloor=Дубовый Пол
+sprucefloor=Еловый Пол
+
+//Content Update 1
+deepsnowstonetiledfloor=Плиточный Пол из Глубинного Снежного Камня
+
+deepsandstonefloor=Пол из Глубинного Песчаника
+deepsandstonebrickfloor=Кирпичный Пол из Глубинного Песчаника
+deepsandstonetiledfloor=Плиточный Пол из Глубинного Песчаника
+
+deepswampstonetiledfloor=Плиточный Пол из Глубинного Болотного Камня
+
+ironfloor=Железный Пол
+copperfloor=Медный Пол
+goldfloor=Золотой Пол
+
+[object]
+
+crps_lantern=Лампа
+crps_lantern_wall=Настенная Лампа
+
+crps_streetlight_single=Уличный Фонарь С Одним Светильником
+crps_streetlight_double=Уличный Фонарь С Двумя Светильниками
+crps_streetlight_quad=Уличный Фонарь С Четырьмя Светильниками
+
+
+woodwall=Деревянная Стена
+wooddoor=Деревянная Дверь
+
+willowchest=Ивовый Сундук
+willowdinnertable=Ивовый Обеденный Стол
+willowdesk=Ивовый Стол
+willowmodulartable=Ивовый Модульный Стол
+willowchair=Ивовый Стул
+willowbench=Ивовая Скамейка
+willowbookshelf=Ивовая Книжная Полка
+willowcabinet=Ивовый Шкаф
+willowbed=Ивовая Кровать
+willowdresser=Ивовый Комод
+willowclock=Ивовые Часы
+willowcandelabra=Ивовый Канделябр
+willowdisplay=Ивовая Витрина
+willowbathtub=Ивовая Ванна
+willowtoilet=Ивовый Туалет
+
+willowwall=Ивовая Стена
+willowdoor=Ивовая Дверь
+
+oakwall=Дубовая Стена
+oakdoor=Дубовая Дверь
+
+sprucewall=Еловая Стена
+sprucedoor=Еловая Дверь
+
+//Content Update 1
+
+deepsnowstonecolumn=Колонна из Глубинного Снежного Камня
+deepstonecolumn=Колонна из Глубинного Камня
+deepswampstonecolumn=Колонна из Глубинного Болотного Камня
+
+irondoor=Железная Дверь
+ironwall=Железная Стена
+
+copperdoor=Медная Дверь
+copperwall=Медная Стена
+
+golddoor=Золотая Дверь
+goldwall=Золотая Стена

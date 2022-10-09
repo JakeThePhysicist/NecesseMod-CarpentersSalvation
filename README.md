@@ -38,6 +38,20 @@ Lanterns, and Wall Lanterns.
 
 Single Streetlights, Double Streetlights, and Quadruple Streetlights.
 
+CONTENT UPDATE 1:
 
+New Deep Snow Stone Textures.
+Deep Snow Stone Columns.
+Deep Snow Stone Tiled floors.
+
+Deep Stone Columns.
+Deep Swamp Stone Colums.
+Deep Swamp Stone Tiled Floors.
+
+Ice walls and doors are now craftable!
+
+Copper Walls, doors, and floors.
+Iron Walls, doors, and floors.
+Gold Walls, doors, and floors.
 
 
