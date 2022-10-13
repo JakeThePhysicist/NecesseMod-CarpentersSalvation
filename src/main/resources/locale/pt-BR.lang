@@ -1,0 +1,73 @@
+[tile]
+woodfloor=Piso de Madeira Tratada
+willowfloor=Piso de Salgueiro
+oakfloor=Piso de Carvalho
+sprucefloor=Piso de Abeto
+
+//Content Update 1
+deepsnowstonetiledfloor=Piso de Pedra da Neve Profunda
+
+deepsandstonefloor=Piso Profundo de Arenito
+deepsandstonebrickfloor=Piso profundo de tijolos de arenito
+deepsandstonetiledfloor=Piso profundo de arenito
+
+deepswampstonetiledfloor=Piso de Pedra do Pântano Profundo
+
+ironfloor=Piso de Ferro
+copperfloor=Piso de cobre
+goldfloor=Piso de Ouro
+
+[object]
+
+
+crps_lantern=Lanterna
+crps_lantern_wall=Lanterna de Parede
+
+crps_streetlight_single=Luz de Rua Única
+crps_streetlight_double=Luz de Rua Dupla
+crps_streetlight_quad=Luz de Rua Quádrupla
+
+
+woodwall=Parede de Madeira Tratada
+wooddoor=Porta de Madeira Tratada
+
+willowchest=Baú de Salgueiro
+willowdinnertable=Mesa de Jantar Salgueiro
+willowdesk=Mesa de Salgueiro
+willowmodulartable=Mesa Modular Salgueiro
+willowchair=Cadeira de Salgueiro
+willowbench=Banco de Salgueiro
+willowbookshelf=Estante de Salgueiro
+willowcabinet=Armário de Salgueiro
+willowbed=Cama de Salgueiro
+willowdresser=Aparador de Salgueiro
+willowclock=Relógio Salgueiro
+willowcandelabra=Candelabro de Salgueiro
+willowdisplay=Diaplay de Salgueiro
+willowbathtub=Banheira de Salgueiro
+willowtoilet=Privada Salgueiro
+
+willowwall=Parede de Salgueiro
+willowdoor=Porta de Salgueiro
+
+oakwall=Parede de Carvalho
+oakdoor=Porta de Carvalho
+
+sprucewall=Parede de Abeto
+sprucedoor=Porta de Abeto
+
+//Content Update 1
+
+deepsnowstonecolumn=Coluna de Pedra da Neve Profunda
+deepstonecolumn=Coluna Profunda de Pedra
+deepswampstonecolumn=Coluna de Pedra do Pântano Profundo
+
+irondoor=Porta de ferro
+ironwall=Parede de ferro
+
+copperdoor=Porta de cobre
+copperwall=Parede de cobre
+
+golddoor=Porta de Ouro
+goldwall=Muro de Ouro
+
