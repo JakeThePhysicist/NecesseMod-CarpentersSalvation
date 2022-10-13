@@ -1,0 +1,72 @@
+[tile]
+woodfloor=Piso de madera tratada
+willowfloor=Piso de sauce
+oakfloor=Piso de roble
+sprucefloor=Piso de abeto
+
+//Content Update 1
+deepsnowstonetiledfloor=Piso de baldosas de piedra de nieve profunda
+
+deepsandstonefloor=Piso de piedra arenisca profunda
+deepsandstonebrickfloor=Piso de ladrillo de piedra arenisca profunda
+deepsandstonetiledfloor=Piso de baldosas de arenisca profunda
+
+deepswampstonetiledfloor=Suelo de baldosas de piedra de pantano profundo
+
+ironfloor=Piso de hierro
+copperfloor=Piso de cobre
+goldfloor=Piso de oro
+
+[object]
+
+
+crps_lantern=Linterna
+crps_lantern_wall=Linterna de pared
+
+crps_streetlight_single=Farola doble simple
+crps_streetlight_double=Farola doble
+crps_streetlight_quad=Farola Cuádruple
+
+
+woodwall=Pared de madera tratada
+wooddoor=Puerta de Madera Tratada
+
+willowchest=Cofre de sauce
+willowdinnertable=Mesa de cena de sauce
+willowdesk=Escritorio de sauce
+willowmodulartable=Mesa modular de sauce
+willowchair=Silla de sauce
+willowbench=Banco de sauce
+willowbookshelf=Estantería de sauce
+willowcabinet=Gabinete de sauce
+willowbed=Cama de sauce
+willowdresser=Tocador de sauce
+willowclock=Reloj de sauce
+willowcandelabra=Candelabro de sauce
+willowdisplay=Espejo de sauce
+willowbathtub=Bañera de sauce
+willowtoilet=Inodoro de sauce
+
+willowwall=Pared de Sauce
+willowdoor=Puerta de Sauce
+
+oakwall=Pared de Roble
+oakdoor=Puerta de Roble
+
+sprucewall=Pared de Abeto
+sprucedoor=Puerta de Abeto
+
+//Content Update 1
+
+deepsnowstonecolumn=Columna de piedra de nieve profunda
+deepstonecolumn=Columna de piedra profunda
+deepswampstonecolumn=Columna de piedra de pantano profundo
+
+irondoor=Puerta de Hierro
+ironwall=Muro de hierro
+
+copperdoor=Puerta de cobre
+copperwall=Pared de cobre
+
+golddoor=Puerta de oro
+goldwall=Pared de oro
