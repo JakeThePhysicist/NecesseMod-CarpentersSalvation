@@ -4,6 +4,19 @@ willowfloor=Sol de Saule
 oakfloor=Parquet en Chêne
 sprucefloor=Plancher en Épicéa
 
+//Content Update 1
+deepsnowstonetiledfloor=Sol carrelé en pierre de neige profonde
+
+deepsandstonefloor=Sol en grès profond
+deepsandstonebrickfloor=Sol en brique de grès profond
+deepsandstonetiledfloor=Sol carrelé en grès profond
+
+deepswampstonetiledfloor=Sol carrelé en pierre profonde des marais
+
+ironfloor=Plancher en fer
+copperfloor=Sol en cuivre
+goldfloor=Plancher d'or
+
 [object]
 
 
@@ -42,3 +55,18 @@ oakdoor=Porte en Chêne
 
 sprucewall=Mur d'épicéa
 sprucedoor=Porte en Épicéa
+
+//Content Update 1
+
+deepsnowstonecolumn=Colonne de pierre de neige profonde
+deepstonecolumn=Colonne de pierre profonde
+deepswampstonecolumn=Colonne de pierre des marais profonds
+
+irondoor=Porte en fer
+ironwall=Porte en cuivre
+
+copperdoor=Porte en cuivre
+copperwall=Mur de cuivre
+
+golddoor=Porte d'or
+goldwall=Mur d'or
