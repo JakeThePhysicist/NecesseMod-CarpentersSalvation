@@ -81,7 +81,9 @@ public class crps_loadmod {
         //WallObject.registerWallObjects("deepsnowstone", "deepsnowstonewall", 1, new Color(65, 75, 80), 0.5F, 1.0F);
 
         //I guess fair forgot to add this though.
-        ObjectRegistry.registerObject("deepsnowstonecolumn", new ColumnObject("deepsnowstonecolumn", new Color(65, 75, 80), ToolType.PICKAXE), 2.0F, true);
+        //ObjectRegistry.registerObject("deepsnowstonecolumn", new ColumnObject("deepsnowstonecolumn", new Color(65, 75, 80), ToolType.PICKAXE), 2.0F, true);
+        //Nevermind, he did on version 0.21.26.
+
 
         //TileRegistry.registerTile("deepsnowstonefloor", new SimpleFloorTile("deepsnowstonefloor", new Color(65, 75, 80)), 2.0F, true);
         //TileRegistry.registerTile("deepsnowstonebrickfloor", new SimpleFloorTile("deepsnowstonebrickfloor", new Color(65, 75, 80)), 2.0F, true);
@@ -94,8 +96,9 @@ public class crps_loadmod {
 
         //Deep Swampstone Colums, and tiles.
         TileRegistry.registerTile("deepswampstonetiledfloor", new SimpleFloorTile("deepswampstonetiledfloor", new Color(33, 71, 33)), 2.0F, true);
-        ObjectRegistry.registerObject("deepswampstonecolumn", new ColumnObject("deepswampstonecolumn", new Color(38, 80, 38), ToolType.PICKAXE), 2.0F, true);
-        ObjectRegistry.registerObject("deepstonecolumn", new ColumnObject("deepstonecolumn", new Color(55, 60, 62), ToolType.PICKAXE), 2.0F, true);
+        //The columns were added in 0.21.26.
+        //ObjectRegistry.registerObject("deepswampstonecolumn", new ColumnObject("deepswampstonecolumn", new Color(38, 80, 38), ToolType.PICKAXE), 2.0F, true);
+        //ObjectRegistry.registerObject("deepstonecolumn", new ColumnObject("deepstonecolumn", new Color(55, 60, 62), ToolType.PICKAXE), 2.0F, true);
 
 
 
