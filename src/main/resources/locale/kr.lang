@@ -1,0 +1,70 @@
+[tile]
+woodfloor=처리된 나무 바닥
+willowfloor=버들 바닥
+oakfloor=참나무 바닥
+sprucefloor=전나무 바닥
+
+//Content Update 1
+deepsnowstonetiledfloor=깊은 눈석재 타일 바닥
+
+deepsandstonefloor=깊은 사암 바닥
+deepsandstonebrickfloor=깊은 사암 벽돌 바닥
+deepsandstonetiledfloor=깊은 사암 타일 바닥
+
+deepswampstonetiledfloor=깊은 늪지 석재 타일 바닥
+
+ironfloor=철 바닥
+copperfloor=구리 바닥
+goldfloor=금 바닥
+
+[object]
+
+crps_lantern=랜턴
+crps_lantern_wall=벽 랜턴
+
+crps_streetlight_single=단일 거리 등
+crps_streetlight_double=이중 거리 등
+crps_streetlight_quad=4배 거리 등
+
+woodwall=처리된 나무 벽
+wooddoor=처리된 나무 문
+
+willowchest=버들 상자
+willowdinnertable=버들 식탁
+willowdesk=버들 책상
+willowmodulartable=버들 모듈러 테이블
+willowchair=버들 의자
+willowbench=버들 벤치
+willowbookshelf=버들 책장
+willowcabinet=버들 캐비닛
+willowbed=버들 침대
+willowdresser=버들 서랍
+willowclock=버들 시계
+willowcandelabra=버들 초대박
+willowdisplay=버들 전시
+willowbathtub=버들 욕조
+willowtoilet=버들 화장실
+
+willowwall=버들 벽
+willowdoor=버들 문
+
+oakwall=참나무 벽
+oakdoor=참나무 문
+
+sprucewall=전나무 벽
+sprucedoor=전나무 문
+
+//Content Update 1
+
+deepsnowstonecolumn=깊은 눈석재 열대
+deepstonecolumn=깊은 석재 열대
+deepswampstonecolumn=깊은 늪지 석재 열대
+
+irondoor=철 문
+ironwall=철 벽
+
+copperdoor=구리 문
+copperwall=구리 벽
+
+golddoor=금 문
+goldwall=금 벽
