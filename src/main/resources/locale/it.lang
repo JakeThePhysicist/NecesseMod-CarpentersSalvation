@@ -1,0 +1,70 @@
+[tile]
+woodfloor=Pavimento in legno trattato
+willowfloor=Pavimento in salice
+oakfloor=Pavimento in quercia
+sprucefloor=Pavimento in abete
+
+//Content Update 1
+deepsnowstonetiledfloor=Pavimento in pietra di neve profonda
+
+deepsandstonefloor=Pavimento in arenaria profonda
+deepsandstonebrickfloor=Pavimento in mattoni di arenaria profonda
+deepsandstonetiledfloor=Pavimento in piastrelle di arenaria profonda
+
+deepswampstonetiledfloor=Pavimento in pietra di palude profonda
+
+ironfloor=Pavimento in ferro
+copperfloor=Pavimento in rame
+goldfloor=Pavimento in oro
+
+[object]
+
+crps_lantern=Lanterna
+crps_lantern_wall=Lanterna da muro
+
+crps_streetlight_single=Luce stradale singola
+crps_streetlight_double=Luce stradale doppia
+crps_streetlight_quad=Luce stradale quadrupla
+
+woodwall=Parete in legno trattato
+wooddoor=Porta in legno trattato
+
+willowchest=Cassa in salice
+willowdinnertable=Tavolo da pranzo in salice
+willowdesk=Scrivania in salice
+willowmodulartable=Tavolo modulare in salice
+willowchair=Sedia in salice
+willowbench=Panchina in salice
+willowbookshelf=Libreria in salice
+willowcabinet=Armadietto in salice
+willowbed=Letto in salice
+willowdresser=Comò in salice
+willowclock=Orologio in salice
+willowcandelabra=Candelabro in salice
+willowdisplay=Espositore in salice
+willowbathtub=Vasca da bagno in salice
+willowtoilet=Toilette in salice
+
+willowwall=Parete in salice
+willowdoor=Porta in salice
+
+oakwall=Parete in quercia
+oakdoor=Porta in quercia
+
+sprucewall=Parete in abete
+sprucedoor=Porta in abete
+
+//Content Update 1
+
+deepsnowstonecolumn=Colonna in pietra di neve profonda
+deepstonecolumn=Colonna in pietra profonda
+deepswampstonecolumn=Colonna in pietra di palude profonda
+
+irondoor=Porta in ferro
+ironwall=Parete in ferro
+
+copperdoor=Porta in rame
+copperwall=Parete in rame
+
+golddoor=Porta in oro
+goldwall=Parete in oro
