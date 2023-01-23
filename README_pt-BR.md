@@ -4,7 +4,9 @@
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_pt-BR.md">:brazil: Português</a></td></tr>
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_fr.md">:fr: Frenc</a></td></tr>
-</table>
+ <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_it.md">:it: Italian</a></td></tr>
+</table
+>
 
 Carpentry's Salvation é um mod para o jogo Necesse que tem como objetivo adicionar diversos objetos de construção e opções cosméticas para as estruturas do jogo.
 

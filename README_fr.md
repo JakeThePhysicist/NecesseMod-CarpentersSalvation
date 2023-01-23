@@ -1,40 +1,41 @@
-# Salut du charpentier
-
-Les **premières étapes** d'un mod pour le jeu Necesse qui s'efforce d'ajouter divers objets de construction et options cosmétiques aux structures du jeu.
+## Le Salut du Charpentier
 
 <table align="right">
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_pt-BR.md">:brazil: Português</a></td></tr>
- <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_fr.md">:fr: Frec</a></td></tr>
-</table>
+ <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_fr.md">:fr: Frenc</a></td></tr>
+ <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_it.md">:it: Italian</a></td></tr>
+</table
 
-La création et la compilation de ce mod ont été grandement facilitées par les informations utiles et l'exemple de projet de mod de [documentation officielle de modding de Necesse](https://docs.google.com/document/u/1/d/e/2PACX-1vTexy0ZwJmztm6KhvwUCpSbgdNFV5hxUOr_6rSiCyqvjlj80Sj28Alenodq6AbOfnKaWoj-zv0iziyL/pub).
 
-~~Le modding de Necesse et par extension ** ce mod ** en sont à des stades extrêmement précoces, il n'y a donc pas vraiment d'étiquette appropriée pour le téléchargement et les descriptions de mods.~~
-Donc, toute description de ce mod est sujette à changement.
+Le Salut du Charpentier est un mod pour le jeu Necesse qui vise à ajouter divers objets de construction et options cosmétiques aux structures du jeu.
 
-## Numéro de version "clé":
+La création et la compilation de ce mod ont été grandement facilitées par les informations utiles et le Projet d'Exemple de Mod de la documentation officielle de modding de Necesse.
 
-Par exemple, le numéro de version au moment de l'écriture de cette "clé" est 0.2.0.2.
-À l'avenir, il pourrait y avoir des numéros de version tels que 0.21.3.11 ou 1.2.1.3 après la publication.
+Le modding de Necesse et, par extension, ce mod sont encore à des stades très préliminaires, il n'y a donc pas vraiment d'étiquette appropriée pour le téléchargement et les descriptions de mods. Par conséquent, toute description de ce mod est soumise à modification.
 
-(Version majeure du mod). (Modifications majeures). (Modifications mineures). (Patches)
+## Numéro de version "clé"
 
-## Conduire
+Par exemple, le numéro de version actuel "clé" est 0.2.0.2. Dans le futur, il peut y avoir des numéros de version tels que 0.21.3.11 ou 1.2.1.3 post-sortie.
 
-Mon mod est open source, alors n'hésitez pas à utiliser des morceaux de mon code ou mes actifs pour des trucs.
-Ne vous attribuez pas le mérite de mon travail ou ne le marquez pas comme le vôtre, tout ce que vous faites en utilisant mes affaires devrait être une extension appropriée.
+(Version principale du mod). (Changements majeurs). (Changements mineurs). (Corrections)
 
-## Fonctionnalités actuelles :
+## Conduite
 
-Murs, portes et sols en chêne.
+Mon mod est open-source, donc n'hésitez pas à utiliser des morceaux de mon code ou mes actifs pour des choses. Il suffit de ne pas prendre le crédit pour mon travail ou de le décrire comme le vôtre, tout ce que vous faites en utilisant mes choses devrait être une extension appropriée.
 
-Murs, portes et planchers en épicéa.
+## Fonctionnalités actuelles:
 
-Murs, portes et sols en saule.
+- Murs, portes et sols en chêne
+- Murs, portes et sols en épicéa
+- Murs, portes et sols en saule
+- Meubles en saule (comme les autres variantes de bois)
+- Lanternes et lanternes murales
+- Réverbères simples, doubles et quadruples
 
-Meubles en saule (identiques aux autres variantes en bois).
+## MISE À JOUR DE CONTENU 1:
 
-Lanternes et lanternes murales.
-
-Lampadaires simples, lampadaires doubles et lampadaires quadruples.
+- Nouvelles textures de pierre de neige profonde. Colonnes en pierre de neige profonde. Sols en pierre de neige profonde.
+- Colonnes en pierre profonde. Colonnes en pierre de marais profond. Sols en pierre de marais profond.
+- Les murs et les portes de glace peuvent maintenant être fabriqués!
+- Murs, portes et sols en cuivre, en fer et en or.
