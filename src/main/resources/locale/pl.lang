@@ -1,0 +1,63 @@
+[tile]
+woodfloor=Posiana podłoga z drewna
+willowfloor=Posiana podłoga z wierzby
+oakfloor=Posiana podłoga z dębu
+sprucefloor=Posiana podłoga z świerku
+
+//Content Update 1
+deepsnowstonetiledfloor=Głęboka podłoga z kamienia śniegu
+
+deepsandstonefloor=Głęboka podłoga z piaskowca
+deepsandstonebrickfloor=Głęboka podłoga z cegły piaskowca
+deepsandstonetiledfloor=Głęboka podłoga z kamienia piaskowca
+
+deepswampstonetiledfloor=Głęboka podłoga z kamienia bagnistego
+
+ironfloor=Żelazna podłoga
+copperfloor=Miedziana podłoga
+goldfloor=Złota podłoga
+
+[object]
+
+crps_lantern=Latarnia
+crps_lantern_wall=Latarnia ścienna
+
+crps_streetlight_single=Jedna latarnia uliczna
+crps_streetlight_double=Podwójna latarnia uliczna
+crps_streetlight_quad=Czterokrotna latarnia uliczna
+
+woodwall=Posiana ściana z drewna
+wooddoor=Posiana drzwi z drewna
+
+willowchest=Kuferek z wierzby
+willowdinnertable=Stół do jedzenia z wierzby
+willowdesk=Biurko z wierzby
+willowmodulartable=Modułowy stół z wierzby
+willowchair=Krzesło z wierzby
+willowbench=Ławka z wierzby
+willowbookshelf=Regał z wierzby
+willowcabinet=Szafka z wierzby
+willowbed=Łóżko z wierzby
+willowdresser=Komoda z wierzby
+willowclock=Zegar z wierzby
+willowcandelabra=Kandelabr z wierzby
+willowdisplay=Wystawa z wierzby
+willowbathtub=Wanna z wierzby
+willowtoilet=Toaleta z wierzby
+
+willowwall=Ściana z wierzby
+willowdoor=Drzwi z wierzby
+
+oakwall=Ściana z dębu
+oakdoor=Drzwi z dębu
+
+sprucewall=Ściana z świerku
+sprucedoor=Drzwi z świerku
+
+//Content Update 1
+
+deepsnowstonecolumn=Głęboka kolumna z kamienia śniegu
+deepstonecolumn=Głęboka kolumna z kamienia
+deepswampstonecolumn=Głęboka kolumna z kamienia bagnistego
+
+irondoor=Żelazne drzwi
