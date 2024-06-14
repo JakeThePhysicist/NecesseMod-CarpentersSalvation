@@ -1,40 +1,41 @@
-# Carpenter's Salvation
-
-Os **estágios iniciais** de um mod para o jogo Necesse que se esforça para adicionar vários objetos de construção e opções cosméticas às estruturas do jogo.
+## Carpentry's Salvation
 
 <table align="right">
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_pt-BR.md">:brazil: Português</a></td></tr>
- <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_fr.md">:fr: Frec</a></td></tr>
-</table>
+ <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_fr.md">:fr: Frenc</a></td></tr>
+ <tr><td><a href="https://github.com/JakeThePhysicist/NecesseMod-CarpentersSalvation/blob/main/README_it.md">:it: Italian</a></td></tr>
+</table
+>
 
-A criação e compilação deste mod foi muito auxiliada pelas informações úteis e pelo Exemplo de Projeto de Mod da [documentação oficial de mods do Necesse](https://docs.google.com/document/u/1/d/e/2PACX-1vTexy0ZwJmztm6KhvwUCpSbgdNFV5hxUOr_6rSiCyqvjlj80Sj28Alenodq6AbOfnKaWoj-zv0iziyL/pub).
+Carpentry's Salvation é um mod para o jogo Necesse que tem como objetivo adicionar diversos objetos de construção e opções cosméticas para as estruturas do jogo.
 
-~~Necesse modding e por extensão **este mod** estão em estágios extremamente iniciais, então não há realmente uma etiqueta adequada para o upload de mods e descrições.~~
-Assim, qualquer descrição deste mod está sujeita a alterações.
+A criação e compilação deste mod foi muito facilitada pela informação útil e Projeto de Exemplo do Mod fornecido pela documentação oficial de modding do Necesse.
 
-## Número da versão "key":
+O modding do Necesse e, por extensão, este mod ainda estão em fases muito iniciais, então ainda não há um protocolo adequado para o upload e descrição de mods. Portanto, a descrição deste mod está sujeita a alterações.
 
-Por exemplo, o número da versão no momento da escrita desta "chave" é 0.2.0.2.
-No futuro, pode haver números de versão como 0.21.3.11 ou 1.2.1.3 pós-lançamento.
+## Número da versão "chave"
 
-(Versão do Mod Principal).(Mudanças Principais).(Mudanças Menores).(Patches)
+Por exemplo, o número da versão atual é "chave" é 0.2.0.2. No futuro, poderão haver números de versão como 0.21.3.11 ou 1.2.1.3 pós-lançamento.
 
-## Código de conduta
+(Versão principal do mod).(Mudanças principais).(Mudanças menores).(Correções)
 
-Meu mod é de código aberto, então sinta-se à vontade para usar partes do meu código ou meus ativos para outras coisas.
-Só não leve crédito pelo meu trabalho ou rotule-o como seu, qualquer coisa que você fizer usando minhas coisas deve javer uma citação adequada a minha pessoa.
+## Conduta
 
-## Funcionalidades atuais:
+Meu mod é de código aberto, então sinta-se livre para usar pedaços do meu código ou meus ativos para coisas. Apenas não pegue crédito pelo meu trabalho ou o rotule como seu próprio, qualquer coisa que você faça usando minhas coisas deve ser uma extensão adequada.
 
-Paredes, portas e pisos de carvalho.
+## Recursos Atuais:
 
-Paredes, portas e pisos de abeto.
+- Paredes, portas e pisos de madeira de carvalho
+- Paredes, portas e pisos de madeira de abeto
+- Paredes, portas e pisos de madeira de salgueiro
+- Móveis de salgueiro (mesmo que os outros tipos de madeira)
+- Luminárias e lanternas de parede
+- Luminárias de rua únicas, duplas e quadruplas
 
-Paredes de salgueiro, portas e pisos.
+## CONTEÚDO ATUALIZADO 1:
 
-Móveis de salgueiro (igual às outras variantes de madeira).
-
-Lanternas e Lanternas de Parede.
-
-Postes simples, postes duplos e postes quádruplos.
+- Novas texturas de pedra de neve profunda. Colunas de pedra de neve profunda. Pisos de pedra de neve profunda.
+- Colunas de pedra profunda. Colunas de pedra de pântano profundo. Pisos de pedra de pântano profundo.
+- Paredes e portas de gelo agora são fabricáveis!
+- Paredes, portas e pisos de cobre, ferro e ouro.
